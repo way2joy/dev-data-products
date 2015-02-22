@@ -11,7 +11,7 @@ This application allows the user to select covariate values of convicts to predi
 - marital status
 - work experience
 - released on parole
-  
+ 
 The predicted survival curve is also plotted against a baseline curve.
 
 The Data
@@ -42,4 +42,4 @@ str(rossi)
 
 Application screenshot
 ========================================================
-![screenshit](screenshot.png)
+![screenshot](screenshot.png)
